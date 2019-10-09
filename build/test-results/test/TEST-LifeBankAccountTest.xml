@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LifeBankAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-09T18:25:58" hostname="MacBook-Pro.local" time="0.083">
+  <properties/>
+  <testcase name="showBalanceHistoryTest" classname="LifeBankAccountTest" time="0.083"/>
+  <system-out><![CDATA[Date       || Amount || Balance
+14/01/2012 || -500 || 2500
+13/01/2012 || 2000 || 3000
+10/01/2012 || 1000 || 1000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
